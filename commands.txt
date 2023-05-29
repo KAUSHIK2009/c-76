@@ -1,0 +1,19 @@
+npm install @react-navigation/stack
+03:30pm
+Teacher
+npm install @react-navigation/native
+03:30pm
+Teacher
+expo install react-native-gesture-handler
+03:30pm
+Teacher
+expo install react-native-reanimated
+03:30pm
+Teacher
+expo install react-native-screens
+03:30pm
+Teacher
+expo install react-native-safe-area-context
+03:31pm
+Teacher
+expo install react-native-safe-area-context
